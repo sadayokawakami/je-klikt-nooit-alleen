@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: Je klikt nooit alleen
-  text: Online privacy
+  name: Wat is woke
+  text: 
   tagline: >
     Een gewone dag van een student laat zien hoeveel digitale sporen ongemerkt worden achtergelaten.
   image:

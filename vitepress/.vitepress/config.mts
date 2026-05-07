@@ -4,13 +4,13 @@ export default defineConfig({
   lang: 'nl-NL',
   title: 'Wat is woke',
   description:
-    'Storytellingportfolio en digitaal eindproduct over privacy, digitale sporen en online bewustwording.',
+    'Storytellingportfolio en digitaal eindproduct over woke, maatschappelijke framing en online beeldvorming.',
   base: '/wat-is-woke/',
-  cleanUrls: true,
+  cleanUrls: false,
   lastUpdated: true,
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: './logo.png',
     siteTitle: 'Wat is woke',
 
     nav: [
